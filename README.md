@@ -2,17 +2,41 @@
 
 # [Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart)
 
+## [2022](2022)
+
+### [Round A](2022/Round%20A)
+
+- [Speed Typing](2022/Round%20A/Speed%20Typing)
+- [Challenge Nine](2022/Round%20A/Challenge%20Nine)
+
+### [Round B](2022/Round%20B)
+
+- [Infinity Area](2022/Round%20B/Infinity%20Area)
+
+### [Round C](2022/Round%20C)
+
+- [New Password](2022/Round%20C/New%20Password)
+- [Range Partition](2022/Round%20C/Range%20Partition)
+
 ## [2021](2021)
 
 ### [Round A](2021/Round%20A)
 
 - [K-Goodness String](2021/Round%20A/K-Goodness%20String)
 
+### [Round B](2021/Round%20B)
+
+- [Increasing Substring](2021/Round%20B/Increasing%20Substring)
+
 ## [2020](2020)
 
 ### [Round A](2020/Round%20A)
 
 - [Allocation](2020/Round%20A/Allocation)
+
+### [Round B](2020/Round%20B)
+
+- [Bike Tour](2020/Round%20B/Bike%20Tour)
 
 ## [2019](2019)
 
